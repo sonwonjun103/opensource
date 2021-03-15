@@ -3,3 +3,6 @@ git text
 Hello world
 Hello world!
 Hello world!!!
+
+bye world
+bye world!
